@@ -2,7 +2,7 @@
 
 Bob is a tiny Android pet that floats above your apps. Drag him around, bring him his favorite snacks, dress him up, or see how many hat trickshots you can land in a row.
 
-**[Download Bob v7.8 for Android](bob-v7.8.apk)** · [What's new](CHANGELOG.md) · [Older versions](versions/)
+**[Download Bob v7.8 for Android](bob-v7.8.apk)** · [What's new](CHANGELOG.md) · [Older versions](versions.zip/)
 
 ## Get started
 
